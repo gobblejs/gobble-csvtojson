@@ -1,0 +1,12 @@
+{
+  "name": "gobble-csvtojson",
+  "version": "0.1.0",
+  "description": "Convert CSV data to JSON with gobble",
+  "author": "Rich Harris",
+  "keywords": [
+    "gobble"
+  ],
+  "files": [
+    "index.js"
+  ]
+}
