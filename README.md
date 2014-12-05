@@ -1,4 +1,4 @@
-# gobble-coffee
+# gobble-csvtojson
 
 Convert CSV data to JSON with gobble.
 
